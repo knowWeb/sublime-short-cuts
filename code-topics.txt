@@ -1,0 +1,23 @@
+Sublime Projects:-
+	- Setting Projects
+	- why projects?
+	- Side Bar - Ctrl - K - B
+	- Opening Files - Ctrl - P
+	- Search within files
+- Ctrl - R
+	- js files
+	- css files
+- Ctrl - D
+- Ctrl - P + @
+- Alt + Shift + (1...5)
+- Ctrl + K + C - to go to cursor
+- Ctrl + K + U, Ctrl + K + L - upper case, lower case
+- Ctrl + Shift + M - select within {}
+- Ctrl + Shift + A
+- Ctrl + Up/Down
+- Ctrl + Shift + D
+- Ctrl + Shift + V
+- Ctrl + TAB, right-click + mouse wheel
+- do you know others?
+
+------- whew.. its done -------
